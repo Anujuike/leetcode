@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        if(nums.empty()) return {};
         int n = nums.size();
         int preprod = 1;
         vector<int> left(n), right(n);
