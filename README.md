@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anujuike/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
+| [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anujuike/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anujuike/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anujuike/leetcode/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
