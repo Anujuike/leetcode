@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anujuike/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anujuike/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anujuike/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
