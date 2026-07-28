@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anujuike/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anujuike/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anujuike/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
