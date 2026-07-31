@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anujuike/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anujuike/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anujuike/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anujuike/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -218,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anujuike/leetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
