@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Anujuike/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anujuike/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anujuike/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anujuike/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
