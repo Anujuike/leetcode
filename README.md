@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anujuike/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anujuike/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anujuike/leetcode/tree/master/0792-binary-search) |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anujuike/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anujuike/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anujuike/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0856-consecutive-numbers-sum](https://github.com/Anujuike/leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Anujuike/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anujuike/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Anujuike/leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Anujuike/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Anujuike/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
@@ -254,4 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anujuike/leetcode/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
