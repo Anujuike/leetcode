@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anujuike/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-shifting-letters-ii](https://github.com/Anujuike/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Anujuike/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anujuike/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anujuike/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Anujuike/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Anujuike/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Anujuike/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Anujuike/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Anujuike/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anujuike/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Anujuike/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
