@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Anujuike/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anujuike/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anujuike/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anujuike/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Anujuike/leetcode/tree/master/0397-integer-replacement) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anujuike/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
