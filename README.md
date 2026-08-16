@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Anujuike/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anujuike/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Anujuike/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anujuike/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Anujuike/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Anujuike/leetcode/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anujuike/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Anujuike/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anujuike/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anujuike/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anujuike/leetcode/tree/master/0013-roman-to-integer) |
 | [2465-shifting-letters-ii](https://github.com/Anujuike/leetcode/tree/master/2465-shifting-letters-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
