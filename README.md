@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anujuike/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Anujuike/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Anujuike/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Anujuike/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anujuike/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anujuike/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Anujuike/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Anujuike/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anujuike/leetcode/tree/master/0234-palindrome-linked-list) |
