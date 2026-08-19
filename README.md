@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Anujuike/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anujuike/leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/Anujuike/leetcode/tree/master/0909-stone-game) |
+| [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anujuike/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anujuike/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anujuike/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Anujuike/leetcode/tree/master/0397-integer-replacement) |
+| [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anujuike/leetcode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anujuike/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anujuike/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Anujuike/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anujuike/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anujuike/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anujuike/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anujuike/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Anujuike/leetcode/tree/master/0397-integer-replacement) |
+| [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
 ## Memoization
 |  |
 | ------- |
