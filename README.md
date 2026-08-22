@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Anujuike/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anujuike/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Anujuike/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anujuike/leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
