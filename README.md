@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anujuike/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anujuike/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anujuike/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anujuike/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anujuike/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anujuike/leetcode/tree/master/0020-valid-parentheses) |
 | [2465-shifting-letters-ii](https://github.com/Anujuike/leetcode/tree/master/2465-shifting-letters-ii) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anujuike/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
