@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Anujuike/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anujuike/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anujuike/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Anujuike/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2465-shifting-letters-ii](https://github.com/Anujuike/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Anujuike/leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anujuike/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anujuike/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Anujuike/leetcode/tree/master/0397-integer-replacement) |
 | [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Anujuike/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Memoization
 |  |
 | ------- |
