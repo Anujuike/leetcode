@@ -235,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Anujuike/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anujuike/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anujuike/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Anujuike/leetcode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anujuike/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anujuike/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Anujuike/leetcode/tree/master/0402-remove-k-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anujuike/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Anujuike/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anujuike/leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Anujuike/leetcode/tree/master/0402-remove-k-digits) |
 | [2465-shifting-letters-ii](https://github.com/Anujuike/leetcode/tree/master/2465-shifting-letters-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anujuike/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anujuike/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anujuike/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anujuike/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Anujuike/leetcode/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Anujuike/leetcode/tree/master/0402-remove-k-digits) |
 | [1487-cinema-seat-allocation](https://github.com/Anujuike/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Anujuike/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Memoization
